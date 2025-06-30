@@ -22,8 +22,8 @@ export default function Hero() {
               WORLD
             </h2>
             <p className="text-xl md:text-2xl text-gray-300 max-w-2xl mx-auto">
-              Лучший сервер Minecraft с ванильными модами. Присоединяйся к 124
-              игрокам онлайн!
+              Лучший сервер Minecraft с ванильными модами. Начни свое
+              приключение уже сегодня!
             </p>
           </div>
 
