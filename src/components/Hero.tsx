@@ -22,8 +22,8 @@ export default function Hero() {
               WORLD
             </h2>
             <p className="text-xl md:text-2xl text-gray-300 max-w-2xl mx-auto">
-              Лучший сервер Minecraft с ванильными модами. Начни свое
-              приключение уже сегодня!
+              Поддержи развитие сервера и получи уникальные привилегии! Все
+              средства идут на улучшение игрового процесса.
             </p>
           </div>
 
@@ -43,19 +43,23 @@ export default function Hero() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto mt-16">
             <div className="bg-minecraft-cobblestone/80 border-4 border-black p-6 text-center">
-              <div className="text-4xl mb-2">⚔️</div>
-              <h3 className="text-xl font-bold text-white mb-2">PvP Арены</h3>
-              <p className="text-gray-300">Сражайся с лучшими игроками</p>
-            </div>
-            <div className="bg-minecraft-cobblestone/80 border-4 border-black p-6 text-center">
-              <div className="text-4xl mb-2">🏰</div>
-              <h3 className="text-xl font-bold text-white mb-2">Постройки</h3>
-              <p className="text-gray-300">Создай свой мир мечты</p>
+              <div className="text-4xl mb-2">👑</div>
+              <h3 className="text-xl font-bold text-white mb-2">
+                VIP Привилегии
+              </h3>
+              <p className="text-gray-300">Получи уникальные возможности</p>
             </div>
             <div className="bg-minecraft-cobblestone/80 border-4 border-black p-6 text-center">
               <div className="text-4xl mb-2">💎</div>
-              <h3 className="text-xl font-bold text-white mb-2">Экономика</h3>
-              <p className="text-gray-300">Торгуй и развивайся</p>
+              <h3 className="text-xl font-bold text-white mb-2">
+                Премиум товары
+              </h3>
+              <p className="text-gray-300">Эксклюзивные предметы и ресурсы</p>
+            </div>
+            <div className="bg-minecraft-cobblestone/80 border-4 border-black p-6 text-center">
+              <div className="text-4xl mb-2">🎨</div>
+              <h3 className="text-xl font-bold text-white mb-2">Косметика</h3>
+              <p className="text-gray-300">Уникальный внешний вид</p>
             </div>
           </div>
         </div>
