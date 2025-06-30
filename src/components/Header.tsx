@@ -48,13 +48,7 @@ export default function Header() {
           </Button>
         </nav>
 
-        <div className="flex items-center space-x-3">
-          <div className="text-white text-sm hidden sm:block">
-            <div className="flex items-center space-x-2">
-              <div className="w-3 h-3 bg-green-500 rounded-full"></div>
-              <span>124 игроков онлайн</span>
-            </div>
-          </div>
+        <div className="flex items-center">
           <Button className="bg-minecraft-grass hover:bg-minecraft-emerald text-white border-2 border-black">
             <Icon name="Play" size={16} className="mr-2" />
             Играть
